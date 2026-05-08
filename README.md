@@ -38,7 +38,7 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 ## 🛠️ Tecnologias
 
 ### Front-end
-<p display: flex;        
+<p display="flex";        
   flex-direction: row; 
   flex-wrap: wrap;
   gap: 10px;><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" height="100" alt="HTML5"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" height="100" alt="CSS3"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100" alt="JavaScript"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="100" height="100" alt="Bootstrap"/></p>
