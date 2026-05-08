@@ -40,7 +40,6 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 <table>
   <tr>
     <td align="center"><b>Front-end</b></td>
-    
   </tr>
   <tr>
     <td valign="top">
