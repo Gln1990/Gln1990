@@ -1,4 +1,4 @@
-# # Olá, eu sou o Gleyson! 👋
+# # Olá, eu sou o Gleyson! 👋🏿
 
 Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando o 3º semestre de *Análise e Desenvolvimento de Sistemas* na UNICID. Com uma base sólida em suporte técnico de hardware e software, estou migrando para o desenvolvimento backend com foco em Java.
 
