@@ -23,8 +23,7 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 
 ### 📫 Como me encontrar:
 <p align="left">
-  <a href="https://github.com/Gln1990">
-    <img src="https://img.shields.io/badge/GitHub-Gln1990-FF0000?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Gln1990"><img src="https://img.shields.io/badge/GitHub-Gln1990-FF0000?style=for-the-badge&logo=github" />
   </a>
 <a href="mailto:Gleyson01rosario@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Gleyson01rosario%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -39,7 +38,10 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 ## 🛠️ Tecnologias
 
 ### Front-end
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60" /></p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60" /></p>
 
 ### Backend
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" /></p>
