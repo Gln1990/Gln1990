@@ -39,17 +39,19 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 
 <table>
   <tr>
-    <td align="center"><b>Front-end</b></td><br>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Ferramentas</b></td>
-  </tr>
-  <tr>
-    <td valign="top">
+    <td align="center"><b>Front-end</b></td>
+     <td valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
     </td>
+    </tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Ferramentas</b></td>
+  </tr>
+  <tr>
+   
     <td valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" />
