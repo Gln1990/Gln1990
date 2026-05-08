@@ -78,7 +78,7 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gln1990&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gln1990&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Filosofia
