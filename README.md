@@ -37,8 +37,6 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 ---
 ## 🛠️ Tecnologias
 
-### Tecnologias
-
 <table>
   <tr>
     <td align="center"><b>Front-end</b></td>
