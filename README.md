@@ -73,14 +73,14 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL--Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gln1990&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gln1990&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gln1990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gln1990&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Filosofia
