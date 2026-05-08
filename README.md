@@ -79,8 +79,8 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gln1990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gln1990&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gln1990&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gln1990&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Filosofia
