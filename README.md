@@ -67,6 +67,7 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
