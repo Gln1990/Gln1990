@@ -22,7 +22,7 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 - *Reengenharia de Sistemas:* Aplicação de métodos ágeis para modernizar sistemas legados.
 
 ### 📫 Como me encontrar:
-<p align="left">
+<p display="flex">
   <a href="https://github.com/Gln1990"><img src="https://img.shields.io/badge/GitHub-Gln1990-FF0000?style=for-the-badge&logo=github" />
   </a>
 <a href="mailto:Gleyson01rosario@gmail.com">
