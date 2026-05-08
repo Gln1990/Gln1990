@@ -74,14 +74,7 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL--Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
-## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gln1990&show_icons=true&theme=radical&count_private=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gln1990&layout=compact&theme=tokyonight" />
-</p>
-
-![Estatísticas do Gleyson](https://github-readme-stats.vercel.app/api?username=Gln1990&show_icons=true&theme=radical)
 
 ## 🚀 Filosofia
 
