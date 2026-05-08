@@ -60,7 +60,7 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
     </td>
     <td valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="200" height="80"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="200" height="80"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="200" height="80"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="200" height="80"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="200" height="80"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="200" height="80"/><br>
