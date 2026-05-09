@@ -17,9 +17,19 @@ Sou um entusiasta de tecnologia em transição de carreira, atualmente cursando 
 🛠️ Automação e Suporte: Experiência técnica em diagnóstico de sistemas e resolução de problemas complexos.
 
 ### 📂 Meus principais projetos:
-- *Simulador de ATM:* Um sistema de caixa eletrônico em Java utilizando Swing e conceitos avançados de POO.
-- *Módulo de RH:* Estruturação completa de um banco de dados escolar focado em gestão de talentos.
-- *Reengenharia de Sistemas:* Aplicação de métodos ágeis para modernizar sistemas legados.
+
+☕ Java & Sistemas Complexos
+Simulador de ATM: Sistema de caixa eletrônico com interface Swing, aplicando conceitos avançados de POO (Herança, Polimorfismo e Encapsulamento).
+
+Reengenharia de Sistemas: Modernização de sistemas legados utilizando métodos ágeis (Scrum/XP) para otimizar processos escolares.
+
+🔵 Linguagem C (Estrutura de Dados)
+ATM Lite & Financial Logic: Simulador de terminal bancário focado em lógica de cédulas, gestão de cota mínima e manipulação de ponteiros.
+
+Gestão Acadêmica: Sistema de diário de classe com automação de médias e situações, utilizando vetores de structs e manipulação de strings.
+
+🗄️ Banco de Dados
+Módulo de RH: Modelagem completa de banco de dados (DER/SQL) para gestão de talentos em ambiente escolar.
 
 ### 📫 Como me encontrar:
 <p align="left">
